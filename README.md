@@ -42,7 +42,6 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Get In Touch
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-guimaraes/)
 
