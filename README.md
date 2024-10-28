@@ -10,7 +10,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 - 📫 How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
 
 ## Skills
-- **Languages**:
+### Languages
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
@@ -43,7 +43,8 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/natan-guimaraes/)
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-guimaraes/)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&hide_title=true&count_private=true&theme=radical)
