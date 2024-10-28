@@ -1,4 +1,4 @@
-# Hi there, I'm JazzAuto! 
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&lines=Hi+there,+%20I%27m+JazzAuto!&fontSize=70&fontWeight=bold)
 
 ## About Me
 I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C++ and C# projects.
