@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d29d5c94-14f6-44ce-9dc3-913d544a6f6e)
+
+
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&lines=Hi+there,+%20I%27m+JazzAuto!&fontSize=70&fontWeight=bold)
 
 ## About Me
