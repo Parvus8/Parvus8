@@ -51,3 +51,4 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzAuto&layout=compact&theme=radical)
 
 ---
+## Visitor Count
