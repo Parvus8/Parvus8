@@ -49,9 +49,14 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-guimaraes/)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&count_private=true&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Jazz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzAuto&layout=compact&hide_border=true&title_color=ff66ff&text_color=00ff66&bg_color=0d1117" />
+</div>
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazzAuto&layout=compact&theme=radical)
+
+[![JazzAuto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JazzAuto&bg_color=0d1117&color=ff66ff&line=00ff7f&point=00ff7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 ## Visitor Count
