@@ -58,5 +58,3 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 [![JazzAuto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JazzAuto&bg_color=0d1117&color=ff66ff&line=00ff7f&point=00ff7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
-## Visitor Count
