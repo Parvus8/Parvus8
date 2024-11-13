@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/89364cf7-776e-4258-a1c2-13f0ec84578a)
+![image](https://github.com/user-attachments/assets/3d4fdae2-53c0-4e7f-adac-99017e803f58)
+
 
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&lines=Hi+there,+%20I%27m+JazzAuto!&fontSize=70&fontWeight=bold)
