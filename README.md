@@ -82,7 +82,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 <details>
     <summary>
-        code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     </summary>
 
 <div align="center">  
