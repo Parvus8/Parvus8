@@ -31,7 +31,10 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-guimaraes/)
 
 ## Skills
-### Languages
+<details>
+    <summary>
+        Languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    </summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
@@ -45,7 +48,14 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frameworks and Tools
+</details>
+   
+
+<details>
+     <summary>
+         Frameworks and Tools ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     </summary>
+    
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,14 +68,22 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Databases
+</details>
+
+<details>
+    <summary>
+        Databases ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    </summary>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</details>
 
 <details>
-    <summary> code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </summary>
+    <summary>
+        code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    </summary>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&count_private=true&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Jazz github stats" /> 
