@@ -17,11 +17,11 @@
 I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C++ and C# projects.
 
 
-- 🔭 I’m currently working on React applications.
-- 👯 I’m looking to collaborate with anything at the moment.
-- 🤔 I’m looking for help with backend structures.
-- 💬 Ask me about something and I'll do my best to help.
-- 📫 How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
+-   I’m currently working on React applications.
+-   I’m looking to collaborate with anything at the moment.
+-   I’m looking for help with backend structures.
+-   Ask me about something and I'll do my best to help.
+-   How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
     </td>
 </tr>
 </table>
