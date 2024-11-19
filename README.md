@@ -1,21 +1,34 @@
-![image](https://github.com/user-attachments/assets/3d4fdae2-53c0-4e7f-adac-99017e803f58)
+<table>
+<tr>
+    <td style="width: 50%;">
+        <img src="https://github.com/user-attachments/assets/903b5c41-9094-41a6-9110-0918f9ac3774" alt="pulp_pic" style="width: 100%; border: 0;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+        <pre style="font-family: monospace; font-size: 20px;">
+   _____                            ______           __             
+  /\___ \                          /\  _  \         /\ \__          
+  \/__/\ \     __     ____    ____ \ \ \L\ \  __  __\ \ ,_\   ___   
+     _\ \ \  /'__ \  /\_ , \ /\_ , \\ \  __ \/\ \/\ \\ \ \/  / __ \ 
+    /\ \_\ \/\ \L\.\_\/_/  /_\/_/  /_\ \ \/\ \ \ \_\ \\ \ \_/\ \L\ \
+    \ \____/\ \__/.\_\ /\____\ /\____\\ \_\ \_\ \____/ \ \__\ \____/
+     \/___/  \/__/\/_/ \/____/ \/____/ \/_/\/_/\/___/   \/__/\/___/ 
+        </pre>
 
-
-
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?center=false&lines=Hi+there,+%20I%27m+JazzAuto!&fontSize=70&fontWeight=bold)
-
-## About Me
 I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C++ and C# projects.
+
 
 - 🔭 I’m currently working on React applications.
 - 👯 I’m looking to collaborate with anything at the moment.
 - 🤔 I’m looking for help with backend structures.
 - 💬 Ask me about something and I'll do my best to help.
 - 📫 How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
+    </td>
+</tr>
+</table>
 
 ## Skills
 ### Languages
-  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
