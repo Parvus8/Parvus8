@@ -32,7 +32,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 ## Skills
 <details>
     <summary>
-        Languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     </summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
