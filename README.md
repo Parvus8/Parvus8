@@ -7,10 +7,10 @@
         <pre style="font-family: monospace; font-size: 20px;">
              _                             _        
             | |                 /\        | |       
-            | | __ _ ________  /  \  _   _| |_ ___  
-        _   | |/ _  |_  /_  / / /\ \| | | | __/ _ \ 
+            | | __ _ ________  /  \  _   _| |_ ___ 
+        _   | |/ _  |_  /_  / / /\ \| | | | __/ _ \
        | |__| | (_| |/ / / / / ____ \ |_| | || (_) |
-        \____/ \__,_/___/___/_/    \_\__,_|\__\___/   
+        \____/ \__,_/___/___/_/    \_\__,_|\__\___/
         </pre>
 
 I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C++ and C# projects.
