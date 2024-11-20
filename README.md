@@ -1,6 +1,6 @@
 <table>
 <tr>
-    <td style="width: 50%;">
+    <td style="width: 50%, display: flex; flex-wrap: wrap; padding: 1rem;">
         <img src="https://github.com/user-attachments/assets/903b5c41-9094-41a6-9110-0918f9ac3774" alt="pulp_pic" style="width: 100%; border: 0;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
