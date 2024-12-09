@@ -1,7 +1,7 @@
 <table>
 <tr>
     <td style="width: 50%, display: flex; flex-wrap: wrap; padding: 1rem;">
-        ![image]()<img src="https://github.com/user-attachments/assets/b1a25b82-9692-4723-8379-a501095385c1" alt="pulp_pic" style="width: 100%; border: 0;"/>
+        <img src="https://github.com/user-attachments/assets/b7fc0b07-358b-4cd7-a878-191401e8b990" alt="pulp_pic" style="width: 100%; border: 0;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
         <pre style="font-family: monospace; font-size: 20px;">
