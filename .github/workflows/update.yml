@@ -22,7 +22,7 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Update README Image
-      run: python update.py ../README.md https://old-url.com/old-image.png https://www.coverbrowser.com/covers/weird-tales
+      run: python .github/update.py ../README.md https://old-url.com/old-image.png https://www.coverbrowser.com/covers/weird-tales
 
     - name: Commit Changes
       run: |
