@@ -32,7 +32,7 @@ def update_image(readme_path, old_image_url, new_image_url):
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Usage: python update_image.py <README.md> <old_image_url> <base_url>")
+        print("Usage: python update.py <README.md> <old_image_url> <base_url>")
         sys.exit(1)
 
     readme_path = sys.argv[1]
