@@ -32,7 +32,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 ## Skills
 <details>
     <summary>
-        Languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Languages ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     </summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 <details>
      <summary>
-         Frameworks and Tools ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         Frameworks and Tools ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      </summary>
     
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -71,7 +71,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 <details>
     <summary>
-        Databases ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Databases ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     </summary>
     
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -84,7 +84,7 @@ I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C+
 
 <details>
     <summary>
-        Code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Code stats ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     </summary>
 
 <div align="center">  
