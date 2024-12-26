@@ -13,7 +13,7 @@
         \____/ \__,_/___/___/_/    \_\__,_|\__\___/
         </pre>
 
-I'm a FullStack Jr. dev with a passion for Data Science. I love working on C, C++ and C# projects.
+I'm a FullStack dev with a passion for Data Science.
 
 
 -   I’m currently working on React applications.
