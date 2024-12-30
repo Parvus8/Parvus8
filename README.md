@@ -3,8 +3,8 @@
     <td style="width: 50%, display: flex; flex-wrap: wrap; padding: 1rem;">
         <img src="https://github.com/user-attachments/assets/3a8784ee-608b-41e6-af59-3fd4953a67d5" alt="pulp_pic" style="width: 100%; border: 0;"/>
     </td>
-    <td style="width: 50%; vertical-align: top;">
-        <pre style="font-family: monospace; font-size: 20px;">
+    <td style="width: 100%; vertical-align: top;">
+        <pre style="font-family: monospace; font-size: 50px;">
              _                             _        
             | |                 /\        | |       
             | | __ _ ________  /  \  _   _| |_ ___ 
