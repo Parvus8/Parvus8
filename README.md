@@ -1,29 +1,19 @@
-<table>
 <tr>
     <td style="width: 50%, display: flex; flex-wrap: wrap; padding: 1rem;">
-        <img src="https://github.com/user-attachments/assets/3a8784ee-608b-41e6-af59-3fd4953a67d5" alt="pulp_pic" style="width: 100%; border: 0;"/>
+        <img src="https://github.com/user-attachments/assets/3a8784ee-608b-41e6-af59-3fd4953a67d5" alt="pulp_pic"/>
     </td>
-    <td style="width: 100%; vertical-align: top;">
-        <pre style="font-family: monospace; font-size: 50px;">
-             _                             _        
-            | |                 /\        | |       
-            | | __ _ ________  /  \  _   _| |_ ___ 
-        _   | |/ _  |_  /_  / / /\ \| | | | __/ _ \
-       | |__| | (_| |/ / / / / ____ \ |_| | || (_) |
-        \____/ \__,_/___/___/_/    \_\__,_|\__\___/
-        </pre>
 
-I'm a FullStack dev with a passion for Data Science.
+## I'm a FullStack dev.
 
 
--   I’m currently working on React applications.
+-   I’m currently working on Python and Java applications.
 -   I’m looking to collaborate with anything at the moment.
 -   I’m looking for help with backend structures.
 -   Ask me about something and I'll do my best to help.
 -   How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
     </td>
 </tr>
-</table>
+
 
 ## Connet with me
 
@@ -88,10 +78,7 @@ I'm a FullStack dev with a passion for Data Science.
     </summary>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&count_private=true&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Jazz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&hide=prs,stars&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Jazz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzAuto&layout=compact&hide_border=true&title_color=ff66ff&text_color=00ff66&bg_color=0d1117" />
 </div>
-
-[![JazzAuto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JazzAuto&bg_color=0d1117&color=ff66ff&line=00ff7f&point=00ff7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </details>
