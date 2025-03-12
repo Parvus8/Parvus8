@@ -73,7 +73,7 @@
     </summary>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JazzAuto&show_icons=true&hide=prs,stars&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="Jazz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzAuto&layout=compact&hide_border=true&title_color=ff66ff&text_color=00ff66&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Parvus8&show_icons=true&hide=prs,stars&hide_border=true&title_color=ff66ff&icon_color=ff66ff&text_color=00ff7f&size=35&bg_color=0d1117" alt="parvus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvus8&layout=compact&hide_border=true&title_color=ff66ff&text_color=00ff66&bg_color=0d1117" />
 </div>
 </details>
