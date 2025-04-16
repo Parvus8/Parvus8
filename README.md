@@ -1,13 +1,28 @@
 ## I'm a FullStack dev.
 
-
 -   I’m currently working on Python and Java applications.
 -   I’m looking to collaborate with anything at the moment.
 -   I’m looking for help with backend structures.
 -   Ask me about something and I'll do my best to help.
 -   How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
-    </td>
-</tr>
+<td>
+
+                    -@                
+                   .##@               
+                  .####@              
+                  @#####@             
+                . *######@            
+               .##@o@#####@           
+              /############@                                           i use Arch BTW   
+             /##############@                                                /
+            @######@**%######@                                           ('-') 
+           @######`     %#####o                                          <|_|>  
+          @######@       ######%                                          └ └
+        -@#######h       ######@.`    
+       /#####h**``       `**%@####@   
+      @H@*`                    `*%#@  
+     *`                            `*
+</td>  
 
 
 ## Connet with me
