@@ -4,7 +4,7 @@
 -   I’m looking to collaborate with anything at the moment.
 -   I’m looking for help with backend structures.
 -   Ask me about something and I'll do my best to help.
--   How to reach me: u/piggmeuuu on Reddit, parvus__ on Discord.
+-   How to reach me: parvus__ on Discord.
 <td>
 
                     -@                
