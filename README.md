@@ -1,6 +1,6 @@
 ## I'm a FullStack dev.
 
--   I’m currently working on Python and Java applications.
+-   I’m currently working on PHP and JS applications.
 -   I’m looking to collaborate with anything at the moment.
 -   I’m looking for help with backend structures.
 -   Ask me about something and I'll do my best to help.
