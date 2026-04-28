@@ -1,29 +1,26 @@
+<table>
+  <tr>
+    <td width="40%">
+      <img src="./images/jacob.jpg" width="100%" />
+    </td>
+    <td width="60%">
+      
 # Hi, I'm Natan 👋
 
 Data Engineer focused on building data pipelines, integrations, and backend systems.
 
----
-
 ## 🚀 About Me
-
-- 💻 Background in Backend Development & System Integration
-- 🔄 Experience building APIs and automating data workflows
-- 🗄️ Working with SQL, PostgreSQL, and data processing
-- ☁️ Cloud experience with AWS & Azure
-
----
+- 💻 Backend & System Integration background  
+- 🔄 Experience with APIs and data workflows  
+- 🗄️ SQL, PostgreSQL, data processing  
+- ☁️ AWS & Azure  
 
 ## 🛠️ Tech Stack
+- Python, SQL, Java  
+- ETL / Data Pipelines  
+- PostgreSQL  
+- Docker, Linux  
 
-- **Languages:** Python, SQL, Java
-- **Data:** ETL/ELT, Data Pipelines, Data Integration
-- **Backend:** Spring Boot, REST APIs
-- **Database:** PostgreSQL, SQL Server
-- **Cloud & Tools:** AWS, Azure, Docker, Linux
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/natan-guimaraes
-- Email: natan.guimaraes.ti@gmail.com
+    </td>
+  </tr>
+</table>
