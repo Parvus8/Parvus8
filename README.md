@@ -7,7 +7,7 @@
       
 # Hi, I'm Natan 👋
 
-Data Engineer focused on building data pipelines, integrations, and backend systems.
+A Fullstack dev focused on building data pipelines, integrations, and backend systems.
 
 ## 🚀 About Me
 - 💻 Backend & System Integration background  
