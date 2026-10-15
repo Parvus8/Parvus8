@@ -1,4 +1,7 @@
-<img src="./images/Jacob.jpg"" align="right" width="220" />
+<td width="40%">
+      <img src="./images/Jacob.jpg" width="100%" />
+    </td>
+    <td width="60%">
 
 # Hi, I'm Natan 👋
 
