@@ -1,4 +1,4 @@
-<img src="./images/natan.jpg" align="right" width="220" />
+<img src="./images/Jacob.jpg"" align="right" width="220" />
 
 # Hi, I'm Natan 👋
 
