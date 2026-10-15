@@ -1,4 +1,6 @@
-<td width="40%">
+<table>
+  <tr>
+    <td width="40%">
       <img src="./images/Jacob.jpg" width="100%" />
     </td>
     <td width="60%">
