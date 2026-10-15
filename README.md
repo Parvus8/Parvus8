@@ -1,26 +1,24 @@
-<table>
-  <tr>
-    <td width="40%">
-      <img src="./images/Jacob.jpg" width="100%" />
-    </td>
-    <td width="60%">
-      
+<img src="./images/natan.jpg" align="right" width="220" />
+
 # Hi, I'm Natan 👋
 
-A Fullstack dev focused on building data pipelines, integrations, and backend systems.
+Backend developer moving into **data engineering**: I build pipelines that ingest, clean, and model data so it's actually usable.
 
-## 🚀 About Me
-- 💻 Backend & System Integration background  
-- 🔄 Experience with APIs and data workflows  
-- 🗄️ SQL, PostgreSQL, data processing  
-- ☁️ AWS & Azure  
+Currently **IT Analyst at BioMundo**, working on [backend systems and integrations].
+🌎 Brazil · Open to remote / international data engineering roles
 
-## 🛠️ Tech Stack
-- Python, SQL, Java  
-- ETL / Data Pipelines  
-- PostgreSQL  
-- Docker, Linux  
+## 🔨 What I'm building
 
-    </td>
-  </tr>
-</table>
+**[Brazil Economic Data Lakehouse](https://github.com/<you>/brazil-economic-lakehouse)**
+End-to-end pipeline that pulls Brazilian economic data from [sources], stores it in [layer/storage], and transforms it into [analytics-ready tables]. Runs locally with Docker Compose.
+`Python` `SQL` `PostgreSQL` `Docker`
+
+## 🛠️ Tech
+
+**Languages:** Python, SQL, Java
+**Data:** ETL pipelines, PostgreSQL, [tools you actually use]
+**Infra & Cloud:** Docker, Linux, AWS, Azure
+
+## 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/<you>) · [email](mailto:<you>@...)
